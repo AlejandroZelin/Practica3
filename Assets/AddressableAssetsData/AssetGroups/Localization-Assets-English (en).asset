@@ -10,24 +10,21 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
-  m_Name: Localization-Assets-Shared
+  m_Name: Localization-Assets-English (en)
   m_EditorClassIdentifier: 
-  m_GroupName: Localization-Assets-Shared
+  m_GroupName: Localization-Assets-English (en)
   m_Data:
     m_SerializedData: []
-  m_GUID: b3d7775b344c1bd45ba2eb796b088a46
+  m_GUID: 5cd7efabbbdd6124caf324977d6158a1
   m_SerializeEntries:
-  - m_GUID: bb5acc98db8309c42bf4c157f1f42016
-    m_Address: "Assets/Localization/Men\xFA Shared Data.asset"
+  - m_GUID: 5c20533d223432a43ba24f61c237b1fb
+    m_Address: britanica
     m_ReadOnly: 1
-    m_SerializedLabels: []
-  - m_GUID: a7ab6f8dfdbfb9f44811203daa721b00
-    m_Address: Assets/Localization/Imagen Shared Data.asset
-    m_ReadOnly: 1
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - Locale-en
   m_ReadOnly: 1
   m_Settings: {fileID: 11400000, guid: db363d7f596709342b01842bce9df40b, type: 2}
   m_SchemaSet:
     m_Schemas:
-    - {fileID: 11400000, guid: e6da40382bfeee6419ec21c647bb00b9, type: 2}
-    - {fileID: 11400000, guid: 378720fb8a0aeb04182275dfe00bd53b, type: 2}
+    - {fileID: 11400000, guid: 05b167edf840ce848981bbbe7edcb15a, type: 2}
+    - {fileID: 11400000, guid: 404e1b32e6e4b8448bc66d41817950c5, type: 2}
